@@ -1,9 +1,12 @@
 # Identificação de curto-circuito em circuito impresso utilizando ESPECTROSCOPIA DE IMPEDÂNICA ELÉTRICA
 
-Nesta página são fornecidos dados e documentos referente a análise de dados. Informações utilizadas no trabalho de mestrado e com o objetivo de identificar potenciais curto-circuito em circuito impresso, por meio da espectroscopia de impedância elétrica
+Nesta página são fornecidos dados e documentos referente a análise de dados. Informações utilizadas no trabalho de mestrado e com o objetivo de identificar potencial curto-circuito em um circuito impresso, por meio da espectroscopia de impedância elétrica
+
+Observações:
 
 * Para os programas disponíveis na pasta '2 - Programas', os arquivos de dados devem estar no mesmo ambiente (disponíveis em '1 - DadosAnalisados').
 * Programas desenvolvidos em Python, com Jupyter Notebook.
+
 
 ## Introdução 
 
