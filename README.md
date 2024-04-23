@@ -1,5 +1,13 @@
 # Identificação de curto-circuito em circuito impresso utilizando ESPECTROSCOPIA DE IMPEDÂNICA ELÉTRICA
 
+Palavras-chave:
+ * ESPECTROSCOPIA DE IMPEDÂNICA ELÉTRICA
+ * DETECÇÃO DE FALHAS
+ * PLACA DE CIRCUITO IMPRESSO - PCI | PCB
+
+
+
+
 Nesta página são fornecidos dados e documentos referente a análise de dados. Informações utilizadas no trabalho de mestrado e com o objetivo de identificar potencial curto-circuito em um circuito impresso, por meio da espectroscopia de impedância elétrica
 
 Observações:
