@@ -32,10 +32,18 @@ As trilhas medidas estavam em placas de circuitos impresso feita de fenolite, e 
 
 ## Resultados
 
+### Análise qualitativa com gráficos de Bode e dendrogramas
 Os dados obtidos das medições foram fundamental para a validaçãode que a espectroscopia pode ser utilizada como técnica para identificação de potenciais curtos-circuitos em placas de circuito impresso (PCIs ou PCBs), por meio da análise qualitativa ou quantitativa. A seguir são apresentado gráficos de dispersão e dendrograma das medições de trilhas de espessura de 0,75mm e isolamento de 1,5mm, onde é possível identificar que há um  agrupamento e tendência da separação de trilhas com potenciais curto-circuito em comparação a uma trilha sem defeito.
 
 <div align="center">
 <img src="https://github.com/YVESSB/InvestigacaoFalhaEmTrilhasPCB/assets/70860093/7a170654-44ed-4f21-a4cf-a807e9266b56.png" width="700px" />
+</div>
+
+### Análise quantitativa por meio de algoritmos - aprendizado de máquina
+ Com os dados obtidos, foram quasificados dados de trilhas SEM falhas e COM falhas. Se tratamdo de dados advindos de um problema multivariável, a constatação de correlação por aprendizado de máquina é uma solução, para validação de problemas.
+
+<div align="center">
+<img src="https://github.com/YVESSB/InvestigacaoFalhaEmTrilhasPCB/assets/70860093/b4dc8694-c223-4c50-a87b-3a88b19de2f6.png" width="1000px" />
 </div>
 
 
